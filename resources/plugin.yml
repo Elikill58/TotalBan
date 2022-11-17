@@ -1,0 +1,6 @@
+name: TotalBan
+version: ${version}
+main: com.elikill58.totalban.spigot.TotalBanSpigot
+author: Elikill58
+depends: [Negativity]
+api-version: 1.13
